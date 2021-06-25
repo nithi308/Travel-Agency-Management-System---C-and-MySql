@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Travel_Agency_Management_System___CodeWithC.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Travel_Agency_Management_System___CodeWithC.dir/objects.a @CMakeFiles\Travel_Agency_Management_System___CodeWithC.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Travel_Agency_Management_System___CodeWithC.dir/objects.a -Wl,--no-whole-archive -o Travel_Agency_Management_System___CodeWithC.exe -Wl,--out-implib,libTravel_Agency_Management_System___CodeWithC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Travel_Agency_Management_System___CodeWithC.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Nithi/Desktop/Travel Agency Management System - C++ and MySql/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nithi/Desktop/Travel Agency Management System - C++ and MySql/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Nithi/Desktop/Travel Agency Management System - C++ and MySql/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

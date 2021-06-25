@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nithi/Desktop/Travel Agency Management System - C++ and MySql/Travel Agency Management System - CodeWithC/main.cpp
+iostream
+-
+cstdio
+-
+fstream
+-
+sstream
+-
+string
+-
+cstdlib
+-
+conio.h
+-
+windows.h
+-
+mysql.h
+-
+
